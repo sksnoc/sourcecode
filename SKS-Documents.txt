@@ -1,0 +1,76 @@
+Hi Sean,
+The below link is for your Moodle Quiz. You need to complete this by 31st August 2022.
+https://mymoodle.campuseai.org/moodle/mod/quiz/view.php?id=5595
+You are requested to complete below 3 quizzes on Moodle
+
+=============================================
+
+Link ->https://sso-evc.quicklaunch.io/home/344
+==============================================
+
+TKT: 
+
+1001732
+
+[9:56 AM] Sean Sharma (Unifyed)
+CW Password - $3@n22
+
+[9:57 AM] Sean Sharma (Unifyed)
+Your employee code is 1912
+
+==============================================
+Tenents
+Unifyed U8
+soo
+QuickLaunch
+CCBC- Community Collage of Baltimore Country -Portal admin
+RBAC- Role back access control
+CCBC	-Unifyed Group
+How to create group and add user in list send msg = push notification mail message
+Engaged
+
+
+
+
+Watched Below Training given by Ken Shiva Sir.
+Technical Training for support implementation Part-1 
+Technical Training for support implementation Part-2
+
+
+OM~SuS121::Uma
+
+
+100785597700
+ 
+
+
+Service Ticket #1006311 - Unifyed Account to be Created
+
+
+
+CCBC - Unifyed Content Mgt Training
+CCBC - Unifyed Group Administration Training
+-------------------------------------------------------
+
+Generate CSR and Private Key
+
+openssl req -new -newkey rsa:2048 -nodes -keyout your_domain.key -out your_domain.csr
+
+
+
+engage admit production and stage 
+
+tin gupta
+
+
+
+
+
+
+FOR SSL Certs Deployment
+
+Need access on Gitlab account 
+Need access to make SSH 
+
+jenkinsone----- 86af9972782a4bd59546ddf2c7b03296
+jenkinstwo----- 7760eb34be8949e19caf39e4dbdc145e
